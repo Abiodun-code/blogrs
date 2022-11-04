@@ -18,6 +18,8 @@ If you have any feedback, please reach out to us at olaabiodun157@gmail.com
 
 - [Abiodun-code](https://github.com/Abiodun-code)
 
+##preview online
+- https://abiodun-code.github.io/blogrs/
 
 ## Support
 
