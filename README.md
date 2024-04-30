@@ -1,4 +1,3 @@
-
 # Blogr
 
 A Modern Publishing Platform Grow Your Audience and Build your online brand
